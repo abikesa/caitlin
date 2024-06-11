@@ -35,7 +35,7 @@
 - Data/`OpenAI`: Hunting & Gathering As Much
 - Compute/`Azure`: Peasantry as Autoencoded H&G
   
-### Sing O Muse [4](https://www.youtube.com/watch?v=EE1JhGFfTFQ)
+### Sing O Muse [4](https://www.youtube.com/watch?v=TWVbZ0WQ3s8)
 - Hardware/`Nvidia`: **Transforms** Peasantry into Farming
 - Bots/`Tesla`: Manufacture Goods From Surplus of Produce
   
