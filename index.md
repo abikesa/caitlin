@@ -1,0 +1,20 @@
+<iframe src="https://www.youtube.com/embed/TWVbZ0WQ3s8" width="75%" height = "25%"></iframe>
+                                      
+                                      1. Data
+                                             \
+                               2. Compute -> 4. Bots -> 5. Version 6. Marketshare
+                                             /
+                                             3. Hardware
+
+
+### Dionysus 1, 2, 3
+- Data/`OpenAI`: Hunting & Gathering As Much
+- Compute/`Azure`: Peasantry as Autoencoded H&G
+  
+### Sing O Muse [4](https://www.youtube.com/watch?v=EE1JhGFfTFQ)
+- Hardware/`Nvidia`: **Transforms** Peasantry into Farming
+- Bots/`Tesla`: Manufacture Goods From Surplus of Produce
+  
+### Apollo 5, 6
+- Version/`iPhone`: Iterative Update of Bots on Electricity-Dependent Assembly Line
+- Marketshare/`iFastest`: Belongs to Most Frequent Iterator & Fasted Deployer in Town Square
